@@ -5,12 +5,12 @@
   
   ## Table of Contents
   * [User Story](#UserStory)
-  * [Acceptance Criteria](AcceptanceCriteria)
+  * [Acceptance Criteria](#AcceptanceCriteria)
   * [Technical Requirements](#TechnicalRequirements)
   * [Testing](#testing) 
   * [Contributors](#contributors)
   * [Questions](#questions)
-  * [Demo Walkthrough](#VideoWalkthrough)
+  * [Demo Walkthrough](#DemoWalkthrough)
   ## User Story
 
   ```md
