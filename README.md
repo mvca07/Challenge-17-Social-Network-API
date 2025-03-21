@@ -55,3 +55,4 @@
 
   ## Demo Walkthrough
 [Demo](https://drive.google.com/file/d/1jQjagN7BKDjfQtUD6PXRHNUoVDBrSOqd/view?usp=drive_link)
+[Assets](https://github.com/mvca07/Challenge-17-Social-Network-API/blob/main/assets/social%20network%20api.png)
